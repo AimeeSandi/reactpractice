@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactpractice/static/css/main.2cce8147.chunk.css",
+    "main.js": "/reactpractice/static/js/main.d091f1a0.chunk.js",
+    "main.js.map": "/reactpractice/static/js/main.d091f1a0.chunk.js.map",
+    "runtime~main.js": "/reactpractice/static/js/runtime~main.94f820ca.js",
+    "runtime~main.js.map": "/reactpractice/static/js/runtime~main.94f820ca.js.map",
+    "static/js/2.b41502e9.chunk.js": "/reactpractice/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/reactpractice/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/reactpractice/index.html",
+    "precache-manifest.9fbca62618a84cb64b4e0e5aa4ee56c1.js": "/reactpractice/precache-manifest.9fbca62618a84cb64b4e0e5aa4ee56c1.js",
+    "service-worker.js": "/reactpractice/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/reactpractice/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/reactpractice/static/media/logo.5d5d9eef.svg"
+  }
+}
